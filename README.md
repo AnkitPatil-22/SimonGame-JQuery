@@ -4,3 +4,6 @@ The Simon game is the exciting game of lights and sounds in which players must r
 Website link: https://ankitpatil-22.github.io/SimonGame-JQuery/
 
 More info: https://en.wikipedia.org/wiki/Simon_(game)
+
+
+![simon-game](https://user-images.githubusercontent.com/71706634/149725727-779509c8-08ee-4098-ae4f-709243fe9191.png)
